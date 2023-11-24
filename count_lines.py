@@ -1,5 +1,6 @@
 import sys
 """
+Author name: Chunyu Huang
 This script counts the lines in standard input
 Input: text from the system
 Test
